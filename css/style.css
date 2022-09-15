@@ -1,0 +1,25 @@
+body {
+    color: brown;
+  }
+  h1 {
+    color: red;
+  }
+  
+  .quote {
+    color: gray;
+  } 
+  
+  .quote.narrator{
+  color: black;
+  font-size: 32px;
+  }
+  
+  .celebration{
+    background-color: pink;
+    color: yellow;
+    font-size: 40px;
+  }
+  
+  #intro p{
+    color: green;
+  }
